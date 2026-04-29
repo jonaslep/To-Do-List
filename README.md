@@ -91,13 +91,13 @@ DELETE /tasks/:id
 Clone o projeto:
 
 ```bash
-git clone https://github.com/seuusuario/taskflow-api.git
+git clone https://github.com/jonaslep/To-Do-List.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd taskflow-api
+cd To-Do-List
 ```
 
 Instale dependências:
@@ -139,7 +139,6 @@ Projeto criado para praticar:
 - Filtro por status
 - Login com JWT
 - Deploy
-- Swagger Documentation
 
 ---
 
