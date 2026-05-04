@@ -4,6 +4,8 @@ Aplicação Full Stack de gerenciamento de tarefas desenvolvida para praticar CR
 
 ## Preview
 
+<img src="./public/assets/image.png" alt="imagem da interface da pagina" width="200">
+
 - Criar tarefas
 - Marcar como concluída
 - Excluir tarefas
